@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import InputSection from "./components/inputSection";
+import InputSection from "./components/InputSection";
 import useCurrencyInfo from "./hooks/useCurrencyInfo";
 
 function App() {
