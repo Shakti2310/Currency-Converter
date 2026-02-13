@@ -38,7 +38,7 @@ export default function InputSection({
           <div className="pt-1">
             <img
               className="w-3.5"
-              src={`./src/assets/${dropDownImg}-drop-down.png`}
+              src={`/${dropDownImg}-drop-down.png`}
             />
           </div>
           <span className="w-12 text-end">

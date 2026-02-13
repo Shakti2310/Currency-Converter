@@ -32,7 +32,7 @@ function App() {
                 </div>
                 <img
                   className="w-6 cursor-pointer inline-block"
-                  src="./src/assets/menu.png"
+                  src="/menu.png"
                 />
               </div>
               <h2 className="text-[24px] font-medium pt-2 text-center">
@@ -56,7 +56,7 @@ function App() {
             className="size-10 flex justify-center items-center rounded-full bg-white absolute top-55 cursor-pointer shadow-xl/50 shadow-slate-500 right-8 "
             onClick={swapCurrency}
           >
-            <img className="w-6 hover:animate-spinOnce" src="./src/assets/swap.png" />
+            <img className="w-6 hover:animate-spinOnce" src="/swap.png" />
           </div>
           <div className="h-[50%] pb-10 bg-white text-red-400 flex justify-center items-center">
             <InputSection
